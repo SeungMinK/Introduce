@@ -6,7 +6,7 @@ https://seung-min.tistory.com/
 2016.03 ~ 2022.02 한림대학교 컴퓨터 공학과 졸업<br>
 
 
-
+<br>
 
  <경력> <br>
  <list>
@@ -16,6 +16,7 @@ https://seung-min.tistory.com/
  <li> (2021.09.01 ~ ) [소이넷] 웹 개발(React,Node.js) <br> </li>
  </list>
 
+<br>
 
  <활동><br>
  <list>
@@ -43,11 +44,8 @@ https://seung-min.tistory.com/
 - https://github.com/r0ach0/LymTaxi
 - 수상일자 : 2021. 06. 14 <br>
 - 기관 : 한림대학교 소프트웨어 융합대학 <br>
-
- 
  <br>
- 
-<br>
+
 <자격증> <br>
 <list>
 <li>[Office Access® 2010]: 취득일자 2017/04/27 <br></li>
