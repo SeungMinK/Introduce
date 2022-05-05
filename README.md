@@ -1,5 +1,5 @@
 
-https://seung-min.tistory.com/
+<h1> https://seung-min.tistory.com/ </h1>
 <hr> 
 <학력><br>
 2013.03 ~ 2016.03 상일미디어 고등학교 소프트웨어학과 졸업 <br>
